@@ -1,0 +1,19 @@
+@import 'https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css';
+@import 'font-awesome/css/font-awesome.min.css';
+@import '@fortawesome/fontawesome-free/css/all.css';
+
+.is-fullheight-100vh {
+  min-height: 100vh;
+  height: 100vh;
+  display: flex;
+}
+.header_container {
+  flex: 1;
+  background: coral;
+}
+.body_container {
+  flex: 1;
+}
+.footer_container {
+  background: yellow;
+}
